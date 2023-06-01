@@ -13,7 +13,7 @@ My research interest spreads broadly in machine learning, including theory and d
 * **Oct, 2022** 1 paper ([Skill Neurons](https://arxiv.org/abs/2211.07349)) accepted at EMNLP 2022.
 * **Jun, 2022** New preprint [Not Benign Overfitting](https://arxiv.org/abs/2206.00501) on arxiv!
 
-[![WhenWen's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhenWen)](https://github.com/WhenWen/github-readme-stats)
+<!-- [![WhenWen's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhenWen)](https://github.com/WhenWen/github-readme-stats) -->
 
 
 
